@@ -1,4 +1,6 @@
 #phishdark
+![IMG_20220514_011052_267](https://user-images.githubusercontent.com/101189497/168382480-dd6ee752-3aa0-416f-baae-6689d3ebf050.jpg)
+
 
 $ apt update (agar ornatilmagan bolsa)
 
